@@ -1,0 +1,5 @@
+# secrets stored in env file
+.env
+
+# no need to commit notes (& those also often have secrets)
+notes
